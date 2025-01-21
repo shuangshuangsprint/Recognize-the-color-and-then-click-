@@ -1,6 +1,8 @@
 # Recognize-the-color-and-then-click-
 The program recognizes the color at the center of the screen and performs a click action accordingly 识别屏幕中心的颜色并相应地执行单击操作
 ctrl+c 退出程序
+need pillow pyautogui  
+pip install pillow pyautogui
 
 警告：本软件仅供合法用途。严禁用于任何违法行为，否则后果自负。  
 本软件生成的数据或文件请在24小时内删除，开发者不承担因违规使用引发的任何责任。
